@@ -1,0 +1,8 @@
+"mov bl, al\n"
+"mov ax, 1\n"
+"test bx, bx\n"
+"je end\n"
+"fact: mul bx\n"
+"dec bx\n"
+"jne fact\n"
+"end: mov dx, ax \n"

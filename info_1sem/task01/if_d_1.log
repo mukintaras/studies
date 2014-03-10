@@ -1,0 +1,28 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.8.31)  18 SEP 2013 11:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/taras/Projects/task01/if_d_1.cpp
+(/home/taras/Projects/task01/if_d_1.cpp
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, bu
+lgarian, ukrainian, russian, loaded.
+! You can't use `macro parameter character #' in vertical mode.
+l.1 #
+     include <stdio.h>
+? 
+! Emergency stop.
+l.1 #
+     include <stdio.h>
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 494816
+ 215 string characters out of 3177878
+ 47775 words of memory out of 3000000
+ 3295 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 198 hyphenation exceptions out of 8191
+ 5i,0n,1p,59b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

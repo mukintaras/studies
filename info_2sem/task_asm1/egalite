@@ -1,0 +1,5 @@
+"xor dx, dx\n"
+"test ax, bx\n"
+"jne end\n"
+"add dx, 1\n"
+"end:\n"

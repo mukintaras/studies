@@ -1,0 +1,8 @@
+"mov %eax, %ebx\n"
+"mov $1, %ax\n"
+"test %bx, %bx\n"
+"je end\n"
+"fact: mul %bx\n"
+"dec %bx\n"
+"jne fact\n"
+"end: mov %ax, %dx \n"

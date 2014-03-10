@@ -1,0 +1,8 @@
+"xor %rbx, %rbx\n"
+"ads:\n"
+"add (%rax), %rbx\n"
+"add $8, %rax\n"
+"loop ads\n"
+
+021, 027 синий
+196 красный
